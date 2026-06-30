@@ -1,0 +1,6 @@
+{
+  "name": "British Library Discovery Engine",
+  "description": "Interactive prototype for the British Library Future Web Programme demonstrating how curated interpretive content and AI power multiple discovery experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
